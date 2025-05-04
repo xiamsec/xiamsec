@@ -18,18 +18,6 @@
 
 ---
 
-## 🧰 Technologies & Tools
-
-```bash
-Languages     :: Python, JavaScript,  HTML/CSS, SQL
-Cyber Tools   :: Wireshark, Suricata, Burp Suite, Nmap
-Cloud         :: AWS, Azure
-Dev Tools     :: VS Code, Postman, Git, Docker
-```
-
----
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
